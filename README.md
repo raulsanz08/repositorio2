@@ -1,2 +1,3 @@
 # repositorio2
-segundo repositorio
+segundo repositorio, que creo en github
+
